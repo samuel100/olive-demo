@@ -11,7 +11,7 @@ You can run the [Olive tutorial for free on Google Colab](https://colab.research
 
 ## Running locally or Cloud VM
 
-We recommend creating a new Python environment:
+The tutorial is available in [this Jupyter notebook](notebooks/olive-finetuning-tinyllama-local.ipynb). We recommend creating a new Python environment to run the notebook in:
 
 ```bash
 git clone https://github.com/samuel100/olive-tutorial.git
